@@ -37,3 +37,5 @@ export default function RootLayout() {
     </ThemeProvider>
   );
 }
+
+// New code below
