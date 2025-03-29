@@ -1,0 +1,1 @@
+### A branch testing pode ou não ser usada durante o desenvolvimento do app. Ela foi criada para manter tudo organizado caso seja necessário fazer alterações no projeto, que devem ser commitadas. Se você não sabe do que isso se trata, apenas ignore esta branch e fique na Main.
